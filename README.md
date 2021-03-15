@@ -8,3 +8,4 @@ analyzing nhamcs data
 Related papers that are interesting:
 
 1. [Racial/Ethnic Differences in Sleep Disturbances: The Multi-Ethnic Study of Atherosclerosis (MESA)](https://pubmed.ncbi.nlm.nih.gov/25409106/) 
+2. [Association Between Sleep Apnea and Blood Pressure Control Among Blacks](https://pubmed.ncbi.nlm.nih.gov/30586763/)
