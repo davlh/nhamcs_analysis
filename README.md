@@ -1,4 +1,6 @@
 # nhamcs_analysis
+helpful resource for learning r: [R for Data Science](https://r4ds.had.co.nz/tidy-data.html)
+
 analyzing nhamcs data
 1. download stata data / look at documentation at [cdc website](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm). Direct link to stata files: ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/dataset_documentation/nhamcs/stata)
 2. Put in directory
